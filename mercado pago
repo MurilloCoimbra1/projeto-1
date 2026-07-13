@@ -1,3 +1,5 @@
 cons == "mercado pago"
 cont = devedor = "devedor"
+cont = t = 'pagamento' 
 console.log(m)
+
